@@ -1,0 +1,2 @@
+cvxpy==1.1.0
+tensorflow==1.15.0
